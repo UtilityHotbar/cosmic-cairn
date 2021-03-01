@@ -5,15 +5,8 @@ nav_order: 1
 permalink: /
 ---
 
-Cairn is an [adventure game](http://questingblog.com/adventure-game-vs-osr) about exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities. Character generation is quick and random, classless, and relies on fictional advancement rather than through XP or level mechanics. It is based on [Knave](https://www.drivethrurpg.com/product/250888/Knave) by Ben Milton and [Into The Odd](https://chrismcdee.itch.io/electric-bastionland) by Chris McDowall.
-
-The PDF version is available for free on [Itch.io](https://yochaigal.itch.io/cairn) & [DriveThruRPG](https://www.drivethrurpg.com/product/330809/Cairn).  
-The full text is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
-The original Affinity Publisher file is also available with the downloads.
-
-A print version of Cairn is now available!  
-See the [Print](/print.md) page for more.
+Cairn: Cosmic Edition is a hack of Cairn that is currently in release version IN_PROGRESS. Cairn is an [adventure game](http://questingblog.com/adventure-game-vs-osr) by [Yochai Gal](https://yochaigal.itch.io) about exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities. Cosmic Cairn takes the base mechanics offered by Cairn and adds an archetype system similar to [Weird North](https://classless-kobolds.itch.io/weird-north), new mechanics for magic and Revelation, and a new astral realm to explore known as the Forest of the Stars. In short, Cairn: Cosmic Edition is Cairn, brought to the mythical Stars.
 
 <p></p>
 
-<img src="https://yochaigal.github.io/cairn/img/cairn.png" style="zoom:50%;" />
+<img src="https://utilityhotbar.github.io/cosmic-cairn/img/cairn.png" style="zoom:50%;" />

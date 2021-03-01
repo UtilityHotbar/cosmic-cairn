@@ -4,15 +4,12 @@ title: SRD
 nav_order: 2
 ---
 
-# Cairn System Reference Document
+# Cairn: Cosmic Edition System Reference Document
 
 <p></p>
 
-**Cairn** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
-Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in other [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc).
-
-**Cairn** is an adventure game for one facilitator (the **Warden**) and at least one other player.
-Players act as hardened adventurers exploring a dark & mysterious Wood filled with strange folk, hidden treasure, and unspeakable monstrosities.
+**Cairn: Cosmic Edition** is an adventure game for one facilitator (the **Warden**) and at least one other player.
+Players act as adventurers wandering the deadly yet wondrous Stars, plumbing the depths of the Forest of the Stars for glory, knowledge, or fortune. Whatever their reasons, they must brave the many perils of this un-wood, and hope that they may return alive.
 
 ## Index
 - [Overview](#overview)
@@ -29,22 +26,22 @@ Players act as hardened adventurers exploring a dark & mysterious Wood filled wi
 
 ## Overview
 
-**Cairn** was written with the following design philosophies in mind:
+**Cairn: Cosmic Edition** keeps these design philosophies in mind:
 
 ### Neutrality  
 The Warden's role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
 
-### Classless  
-A character's role or skills are not limited by a single class. Instead, the equipment they carry and their experiences defines their specialty.
+### Archetypes
+Archetypes reflect your role in the world, and offer a justification for why you can access the Stars. They are meant to shine light on a specific facet of your character, and give you prompts (but not definitions) and possible perspectives as to the identity of that character.
 
 ### Death
-Characters may be powerful, but they are also vulnerable to harm in its many forms. Death is always around the corner,but it is never random or without warning.
+Characters may be powerful, but they are also vulnerable to harm in its many forms. Death is always around the corner, but it is never random or without warning.
 
 ### Fiction First  
-Dice do not always reflect an obstacle's difficulty or its outcome. Instead, success and failure are arbitrated by the Warden in dialogue with the players, based on in- world elements.
+Dice do not always reflect an obstacle's difficulty or its outcome. Instead, success and failure are arbitrated by the Warden in dialogue with the players, based on in-world elements.
 
 ### Growth  
-Characters are changed through in-world advancement, gaining new skills and abilities by surviving dangerous events and overcoming obstacles.
+Characters are changed through in-world advancement, gaining new skills and abilities by surviving dangerous events and overcoming obstacles. This is enhanced by archetypes (both gaining an archetype and advancing within one), which represent set methods of advancement that should be coupled with in-world, narrative and diegetic triggers.
 
 ### Player Choice  
 Players should always understand the reasons behind the choices they've made, and information about potential risks should be provided freely and frequently.
@@ -89,29 +86,28 @@ Players trust one another to engage with the shared setting, character goals, an
 - Give players opportunities to solve problems and interact with the world.
 
 ### Treasure  
-- A Treasure is specific to the environment from where it is recovered. It tells a story.
-- Treasure is highly valuable, almost always bulky,and rarely useful beyond its worth and prestige.
-- Relics are not Treasure,though they are useful and interesting.
-- Use **Treasure** as a lure to exotic locations under the protection of intimidating foes.
+- A Treasure anything that attracts the players. This can mean information, sources of power, literal wealth, or valuable artefacts.
+- Treasure is highly valuable, almost always bulky, and rarely useful beyond its worth and prestige.
+- Relics are not Treasure, though they are useful and interesting.
+- Use Treasure as a lure to exotic locations under the protection of intimidating foes.
 
 ### Choice  
 - Give players a solid choice to force outcomes when the situation  lulls.
-- Use binary&quot; so, A or B?&quot; responses when their intentions are vague.
+- Use binary &quot; so, A or B?&quot; responses when their intentions are vague.
 - Work together with this conversational progress to keep the game moving.
 - Ensure that the player character's actions leave their mark on the game world.
 
 ### Die of Fate  
-- Occasionally you will want an element of randomness (e.g. the weather,unique character knowledge,etc.).
-- In these situations, roll 1d6. A roll of 4 or more generally favors the players.
-- A roll of 3 or under tends to mean bad luck for the PCs or their allies.
+- Occasionally you will want an element of randomness (e.g. the weather, unique character knowledge, etc.).
+- In these situations, roll 1d6. A roll of 5-6 or more generally favors the players. 3-4, trouble or bad luck on the horizon. 1-2, trouble around the corner.
 
 [back to index](#index)
 <p></p>
 
 ## Principles for Players
 ### Agency
-- Attributes and related saves do not define your character.They are tools.
-- Don't ask only what your character would do, ask what you would do,too.
+- Attributes and related saves do not define your character. They are tools.
+- Don't ask only what your character would do, ask what you would do, too.
 - Be creative with your intuition, items, and connections.
 
 ### Teamwork
@@ -145,14 +141,14 @@ Players trust one another to engage with the shared setting, character goals, an
 
 ## Character Creation
 
-**Name, Background & Traits**  
+### Name, Background & Traits
 First, choose or roll a **name** for your character from the [**Name & Background**](#name--background-d20) tables, then their **background**, which informs their knowledge and potential skills.
 
 Next, roll for the rest of your character's **traits** (appearance, speech, mannerisms, beliefs, reputation, etc.) on the [**Character Traits**](#character-traits-d10) tables.
 
 Finally, roll for their **age** (2d20+10).
 
-#### Ability Scores  
+### Ability Scores  
 Player Characters (PCs) have just three attributes:  
 **Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**. When creating a PC, the player should roll 3d6 for each of their character's ability scores, in order. They may then swap any two of the results.
 
@@ -162,7 +158,7 @@ Ines rolls for her character's **STR**, resulting in a **2**, a **4**, and a **6
 ### Hit Protection  
 Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the **Scars** table.
 
-#### Inventory
+### Inventory
 Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
 
 Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Warden's discretion.
